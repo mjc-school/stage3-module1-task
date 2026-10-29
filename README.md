@@ -68,8 +68,8 @@ For example: [Mapstruct](https://mapstruct.org/), [Modelmapper](http://modelmapp
 9. Application should be tested and pass all tests suites.
 
 ## Application requirements:
-1. Java 17 should be used.
-2. Gradle. Multi-module project.
+1. Java 25 should be used.
+2. Gradle 9.1.0. Multi-module project.
 3. Application packages root: com.mjc.school
 4. Java Code Convention is mandatory.
 
